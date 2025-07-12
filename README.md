@@ -2,7 +2,7 @@
 
 A cross-platform, Azure-native productivity app built with Flutter.
 
-🚀 **Live MVP Features**
+🚀 **Going live soon MVP Features**
 - Secure login with Azure AD B2C
 - Create and store tasks in real-time
 - Hosted on Azure App Service, backed by Cosmos DB
