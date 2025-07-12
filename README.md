@@ -1,16 +1,24 @@
-# cloudsync
+# CloudSync Pro ☁️📝
 
-A new Flutter project.
+A cross-platform, Azure-native productivity app built with Flutter.
 
-## Getting Started
+🚀 **Live MVP Features**
+- Secure login with Azure AD B2C
+- Create and store tasks in real-time
+- Hosted on Azure App Service, backed by Cosmos DB
 
-This project is a starting point for a Flutter application.
+🛠️ **Tech Stack**
+- Flutter (Frontend)
+- Azure AD B2C (Authentication)
+- Azure Functions (Backend Logic)
+- Cosmos DB (NoSQL Storage)
+- Azure App Service (Hosting)
+- SignalR (Real-time Sync - upcoming)
 
-A few resources to get you started if this is your first Flutter project:
+📍**Roadmap Highlights**
+- Real-time collaboration
+- Offline support
+- Usage analytics (App Insights)
+- Role-based sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👩‍💻 Work in Progress – Stay tuned!
